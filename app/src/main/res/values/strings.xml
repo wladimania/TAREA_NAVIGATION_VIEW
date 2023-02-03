@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TAREA NAVIGATION VIEW</string>
+    <string name="navigation_drawer_open">Abrir cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar cajón de navegación</string>
+    <string name="nav_header_title">TAREA NAVIGATION VIEW</string>
+    <string name="nav_header_subtitle">Aplicaciones Moviles</string>
+    <string name="nav_header_desc">Encabezado de navegación</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">INICIO</string>
+    <string name="menu_gallery">GALERIA</string>
+    <string name="menu_slideshow">DIAPOSITIVAS</string>
+</resources>
